@@ -169,8 +169,13 @@ span {
 
 .about-img img {
     width: 35vw;
-    justify-content: space-between;
+    /* border: 2px solid #333; Adjust the color and width as needed */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: block; /* Ensure image displays as a block element */
+    margin: 0 auto; /* Center the image horizontally */
 }
+
 
 .heading {
     text-align: center;
