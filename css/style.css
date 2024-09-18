@@ -144,6 +144,7 @@ span {
 
 .btn {
     display: inline-block;
+    /* margin-right: 20px; */
     padding: 1rem 2.8rem;
     background: var(--main-color);
     border-radius: 4rem;
